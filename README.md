@@ -18,7 +18,7 @@ I'm a newly intialized software engineer based in New York City.
 ### My Activity
 <div display="block">
   <a href="https://github.com/lsherman98">
-    <img width=450 height=170 align="center" alt="adedushi" src="https://github-readme-stats.vercel.app/api?username=lsherman98i&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="adedushi" src="https://github-readme-stats.vercel.app/api?username=lsherman98&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/lsherman98">
     <img align="center" alt="lsherman98" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsherman98&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
