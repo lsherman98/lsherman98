@@ -2,7 +2,8 @@
 
 I'm a newly intialized software engineer based in New York City. 
 
-Explore my work!
+
+Explore my work! ↓↓↓
 - [ECHO](https://echo-p48f.onrender.com/)
 - [EventLite](https://eventlite-q3yt.onrender.com/)
 - [US Energy Trends](https://lsherman98.github.io/American-Energy-Trends/)
