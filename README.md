@@ -20,7 +20,7 @@ Explore my work below! ↓↓↓
   <a href="https://www.linkedin.com/in/lsherman98/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-   <a href="www.levisherman.xyz" target="_blank">
+   <a href="https://www.levisherman.xyz" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/>
   </a>
 <!--   <a href="" target="_blank">
