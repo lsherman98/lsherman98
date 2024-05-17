@@ -2,7 +2,7 @@
 
 I am a full stack developer living in New York City, passionate about learning, building, and growing as an engineer. 
 
-- 🔭 I’m currently working on a CLI Tool that allows you to easily convert youtube videos to MP3s and add them to a private RSS podcast feed. 
+- 🔭 I’m currently working on a CLI Tool that allows you to easily convert youtube videos to MP3s and adds the audio to a private RSS podcast feed. 
 - 🌱 I’m currently learning Go and bringing my backend skills to the next level. 
 - 💬 Ask me about the last book I read!
 
